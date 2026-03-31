@@ -1,9 +1,0 @@
-fastapi
-uvicorn[standard]
-SQLAlchemy
-psycopg2-binary
-pydantic
-httpx
-python-dotenv
-APScheduler
-anthropic
